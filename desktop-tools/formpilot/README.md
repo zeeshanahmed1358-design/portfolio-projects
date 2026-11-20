@@ -18,4 +18,4 @@ JavaScript, HTML, CSS
 Demo portfolio entry. Replace with actual project details before presenting as completed work.
 
 ## Live Demo
-Not available yet.
+(https://addons.mozilla.org/en-US/firefox/addon/smartform-filler/)
